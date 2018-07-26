@@ -1,0 +1,46 @@
+C:/Users/poban/Desktop/Dominion/test/decode_control.v {1 {vlog -work work -stats=none C:/Users/poban/Desktop/Dominion/test/decode_control.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module decode_control
+
+Top level modules:
+	decode_control
+
+} {} {}} C:/Users/poban/Desktop/Dominion/test/decode_output.v {2 {vlog -work work -stats=none C:/Users/poban/Desktop/Dominion/test/decode_output.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module decode_output
+** Warning: (vlog-2121) C:/Users/poban/Desktop/Dominion/test/decode_output.v(27): Illegal concatenation of an unsized constant. Will treat it as a 32-bit value.
+** Warning: (vlog-2121) C:/Users/poban/Desktop/Dominion/test/decode_output.v(31): Illegal concatenation of an unsized constant. Will treat it as a 32-bit value.
+
+Top level modules:
+	decode_output
+
+} {} {}} C:/Users/poban/Desktop/Dominion/test/decode.v {2 {vlog -work work -stats=none C:/Users/poban/Desktop/Dominion/test/decode.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module decode
+** Warning: C:/Users/poban/Desktop/Dominion/test/decode.v(15): (vlog-2697) MSB of part-select into 'card_data' is out of bounds.
+
+Top level modules:
+	decode
+
+} {} {}} C:/Users/poban/Desktop/Dominion/test/cost_check.v {1 {vlog -work work -stats=none C:/Users/poban/Desktop/Dominion/test/cost_check.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module cost_check
+
+Top level modules:
+	cost_check
+
+} {} {}} C:/Users/poban/Desktop/Dominion/test/decode_top_tb.v {1 {vlog -work work -stats=none C:/Users/poban/Desktop/Dominion/test/decode_top_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module decode_top_tb
+
+Top level modules:
+	decode_top_tb
+
+} {} {}} C:/Users/poban/Desktop/Dominion/test/ROMCards.v {1 {vlog -work work -stats=none C:/Users/poban/Desktop/Dominion/test/ROMCards.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module ROMCards
+
+Top level modules:
+	ROMCards
+
+} {} {}}
