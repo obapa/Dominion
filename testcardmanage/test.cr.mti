@@ -1,0 +1,64 @@
+C:/Users/poban/Desktop/Dominion/testcardmanage/card_handler_TOP.v {1 {vlog -work work -stats=none C:/Users/poban/Desktop/Dominion/testcardmanage/card_handler_TOP.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module card_control_TOP
+
+Top level modules:
+	card_control_TOP
+
+} {} {}} C:/Users/poban/Desktop/Dominion/testcardmanage/card_handler_RAM_Controller.v {1 {vlog -work work -stats=none C:/Users/poban/Desktop/Dominion/testcardmanage/card_handler_RAM_Controller.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module card_handler_RAM_Controller
+
+Top level modules:
+	card_handler_RAM_Controller
+
+} {} {}} C:/Users/poban/Desktop/Dominion/testcardmanage/switch_decode.v {1 {vlog -work work -stats=none C:/Users/poban/Desktop/Dominion/testcardmanage/switch_decode.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module switch_decode
+
+Top level modules:
+	switch_decode
+
+} {} {}} C:/Users/poban/Desktop/Dominion/testcardmanage/card_handler_TOP_tb.v {1 {vlog -work work -stats=none C:/Users/poban/Desktop/Dominion/testcardmanage/card_handler_TOP_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module card_handler_TOP_tb
+
+Top level modules:
+	card_handler_TOP_tb
+
+} {} {}} C:/Users/poban/Desktop/Dominion/testcardmanage/card_control.v {1 {vlog -work work -stats=none C:/Users/poban/Desktop/Dominion/testcardmanage/card_control.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module card_control
+
+Top level modules:
+	card_control
+
+} {} {}} C:/Users/poban/Desktop/Dominion/testcardmanage/RAMDiscard.v {1 {vlog -work work -stats=none C:/Users/poban/Desktop/Dominion/testcardmanage/RAMDiscard.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module RAMDiscard
+
+Top level modules:
+	RAMDiscard
+
+} {} {}} C:/Users/poban/Desktop/Dominion/testcardmanage/RAMDeck.v {1 {vlog -work work -stats=none C:/Users/poban/Desktop/Dominion/testcardmanage/RAMDeck.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module RAMDeck
+
+Top level modules:
+	RAMDeck
+
+} {} {}} C:/Users/poban/Desktop/Dominion/testcardmanage/RAMHand.v {1 {vlog -work work -stats=none C:/Users/poban/Desktop/Dominion/testcardmanage/RAMHand.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module RAMHand
+
+Top level modules:
+	RAMHand
+
+} {} {}} C:/Users/poban/Desktop/Dominion/testcardmanage/card_handler_reg.v {1 {vlog -work work -stats=none C:/Users/poban/Desktop/Dominion/testcardmanage/card_handler_reg.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module card_handler_reg
+
+Top level modules:
+	card_handler_reg
+
+} {} {}}

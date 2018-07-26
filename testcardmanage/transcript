@@ -1,0 +1,129 @@
+# Reading C:/intelFPGA_lite/17.1/modelsim_ase/tcl/vsim/pref.tcl
+# OpenFile C:/Users/poban/Desktop/Dominion/testcardmanage/card_handler_reg.v
+# Loading project test
+# Compile of RAMHand.v was successful.
+# Compile of card_control.v was successful.
+# Compile of card_handler_TOP.v was successful.
+# Compile of RAMDeck.v was successful.
+# Compile of RAMDiscard.v was successful.
+# Compile of switch_decode.v was successful.
+# Compile of card_handler_RAM_Controller.v was successful.
+# Compile of card_handler_reg.v failed with 11 errors.
+# Compile of card_handler_TOP_tb.v was successful.
+# 9 compiles, 1 failed with 11 errors.
+# Error opening C:/Users/poban/Desktop/Dominion/testcardmanage/(vlog-13069) C:/Users/poban/Desktop/Dominion/testcardmanage/card_handler_reg.v
+# Path name 'C:/Users/poban/Desktop/Dominion/testcardmanage/(vlog-13069) C:/Users/poban/Desktop/Dominion/testcardmanage/card_handler_reg.v' doesn't exist.
+# Compile of RAMHand.v was successful.
+# Compile of card_control.v was successful.
+# Compile of card_handler_TOP.v was successful.
+# Compile of RAMDeck.v was successful.
+# Compile of RAMDiscard.v was successful.
+# Compile of switch_decode.v was successful.
+# Compile of card_handler_RAM_Controller.v was successful.
+# Compile of card_handler_reg.v failed with 10 errors.
+# Compile of card_handler_TOP_tb.v was successful.
+# 9 compiles, 1 failed with 10 errors.
+# Compile of RAMHand.v was successful.
+# Compile of card_control.v was successful.
+# Compile of card_handler_TOP.v was successful.
+# Compile of RAMDeck.v was successful.
+# Compile of RAMDiscard.v was successful.
+# Compile of switch_decode.v was successful.
+# Compile of card_handler_RAM_Controller.v was successful.
+# Compile of card_handler_reg.v failed with 7 errors.
+# Compile of card_handler_TOP_tb.v was successful.
+# 9 compiles, 1 failed with 7 errors.
+# Compile of RAMHand.v was successful.
+# Compile of card_control.v was successful.
+# Compile of card_handler_TOP.v was successful.
+# Compile of RAMDeck.v was successful.
+# Compile of RAMDiscard.v was successful.
+# Compile of switch_decode.v was successful.
+# Compile of card_handler_RAM_Controller.v was successful.
+# Compile of card_handler_reg.v failed with 6 errors.
+# Compile of card_handler_TOP_tb.v was successful.
+# 9 compiles, 1 failed with 6 errors.
+# Compile of RAMHand.v was successful.
+# Compile of card_control.v was successful.
+# Compile of card_handler_TOP.v was successful.
+# Compile of RAMDeck.v was successful.
+# Compile of RAMDiscard.v was successful.
+# Compile of switch_decode.v was successful.
+# Compile of card_handler_RAM_Controller.v was successful.
+# Compile of card_handler_reg.v failed with 5 errors.
+# Compile of card_handler_TOP_tb.v was successful.
+# 9 compiles, 1 failed with 5 errors.
+# Compile of RAMHand.v was successful.
+# Compile of card_control.v was successful.
+# Compile of card_handler_TOP.v was successful.
+# Compile of RAMDeck.v was successful.
+# Compile of RAMDiscard.v was successful.
+# Compile of switch_decode.v was successful.
+# Compile of card_handler_RAM_Controller.v was successful.
+# Compile of card_handler_reg.v failed with 1 errors.
+# Compile of card_handler_TOP_tb.v was successful.
+# 9 compiles, 1 failed with 1 error.
+# Compile of RAMHand.v was successful.
+# Compile of card_control.v was successful.
+# Compile of card_handler_TOP.v was successful.
+# Compile of RAMDeck.v was successful.
+# Compile of RAMDiscard.v was successful.
+# Compile of switch_decode.v was successful.
+# Compile of card_handler_RAM_Controller.v was successful.
+# Compile of card_handler_reg.v was successful.
+# Compile of card_handler_TOP_tb.v was successful.
+# 9 compiles, 0 failed with no errors.
+# Compile of RAMHand.v was successful.
+# Compile of card_control.v was successful.
+# Compile of card_handler_TOP.v was successful.
+# Compile of RAMDeck.v was successful.
+# Compile of RAMDiscard.v was successful.
+# Compile of switch_decode.v was successful.
+# Compile of card_handler_RAM_Controller.v was successful.
+# Compile of card_handler_reg.v was successful.
+# Compile of card_handler_TOP_tb.v was successful.
+# 9 compiles, 0 failed with no errors.
+# Compile of RAMHand.v was successful.
+# Compile of card_control.v was successful.
+# Compile of card_handler_TOP.v was successful.
+# Compile of RAMDeck.v was successful.
+# Compile of RAMDiscard.v was successful.
+# Compile of switch_decode.v was successful.
+# Compile of card_handler_RAM_Controller.v was successful.
+# Compile of card_handler_reg.v was successful.
+# Compile of card_handler_TOP_tb.v was successful.
+# 9 compiles, 0 failed with no errors.
+# Compile of RAMHand.v was successful.
+# Compile of card_control.v was successful.
+# Compile of card_handler_TOP.v was successful.
+# Compile of RAMDeck.v was successful.
+# Compile of RAMDiscard.v was successful.
+# Compile of switch_decode.v was successful.
+# Compile of card_handler_RAM_Controller.v was successful.
+# Compile of card_handler_reg.v was successful.
+# Compile of card_handler_TOP_tb.v was successful.
+# 9 compiles, 0 failed with no errors.
+vsim -gui work.card_handler_TOP_tb
+# vsim -gui work.card_handler_TOP_tb 
+# Start time: 01:14:49 on May 08,2018
+# Loading work.card_handler_TOP_tb
+# Loading work.card_control_TOP
+# Loading work.switch_decode
+# Loading work.card_handler_reg
+# Loading work.RAMDeck
+# ** Error: (vsim-3033) C:/Users/poban/Desktop/Dominion/testcardmanage/RAMDeck.v(62): Instantiation of 'altsyncram' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /card_handler_TOP_tb/tb/chr/deck File: C:/Users/poban/Desktop/Dominion/testcardmanage/RAMDeck.v
+#         Searched libraries:
+#             C:/Users/poban/Desktop/Dominion/testcardmanage/work
+# Loading work.RAMDiscard
+# ** Error: (vsim-3033) C:/Users/poban/Desktop/Dominion/testcardmanage/RAMDiscard.v(62): Instantiation of 'altsyncram' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /card_handler_TOP_tb/tb/chr/discard File: C:/Users/poban/Desktop/Dominion/testcardmanage/RAMDiscard.v
+#         Searched libraries:
+#             C:/Users/poban/Desktop/Dominion/testcardmanage/work
+# Loading work.RAMHand
+# ** Error: (vsim-3033) C:/Users/poban/Desktop/Dominion/testcardmanage/RAMHand.v(62): Instantiation of 'altsyncram' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /card_handler_TOP_tb/tb/chr/hand File: C:/Users/poban/Desktop/Dominion/testcardmanage/RAMHand.v
+#         Searched libraries:
+#             C:/Users/poban/Desktop/Dominion/testcardmanage/work
+# Loading work.card_control
+# Error loading design
